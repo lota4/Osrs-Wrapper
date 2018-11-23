@@ -1,15 +1,15 @@
 {
   "hiscores": {
-    "normal": "http://services.runescape.com/m=hiscore_oldschool/index_lite.ws?player=",
-    "ironman": "http://services.runescape.com/m=hiscore_oldschool_ironman/index_lite.ws?player=",
-    "ultimate": "http://services.runescape.com/m=hiscore_oldschool_ultimate/index_lite.ws?player=",
-    "hardcore": "http://services.runescape.com/m=hiscore_oldschool_hardcore_ironman/index_lite.ws?player=",
-    "deadman": "http://services.runescape.com/m=hiscore_oldschool_deadman/index_lite.ws?player=",
-    "seasonal": "http://services.runescape.com/m=hiscore_oldschool_seasonal/index_lite.ws?player="
+    "normal": "https://services.runescape.com/m=hiscore_oldschool/index_lite.ws?player=",
+    "ironman": "https://services.runescape.com/m=hiscore_oldschool_ironman/index_lite.ws?player=",
+    "ultimate": "https://services.runescape.com/m=hiscore_oldschool_ultimate/index_lite.ws?player=",
+    "hardcore": "https://services.runescape.com/m=hiscore_oldschool_hardcore_ironman/index_lite.ws?player=",
+    "deadman": "https://services.runescape.com/m=hiscore_oldschool_deadman/index_lite.ws?player=",
+    "seasonal": "https://services.runescape.com/m=hiscore_oldschool_seasonal/index_lite.ws?player="
   },
   "ge": {
-    "graph": "http://services.runescape.com/m=itemdb_oldschool/api/graph/",
-    "information": "http://services.runescape.com/m=itemdb_oldschool/api/catalogue/detail.json?item="
+    "graph": "https://services.runescape.com/m=itemdb_oldschool/api/graph/",
+    "information": "https://services.runescape.com/m=itemdb_oldschool/api/catalogue/detail.json?item="
   },
   "skills": [
     "Overall",
